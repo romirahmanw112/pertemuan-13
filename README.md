@@ -6,6 +6,10 @@
 | **NIM**    | 312310581           |
 | **Kelas**  | TI.23.A6            |
 
+## Link Youtube
+Video berisi penjelasan proses pembuatan program CRUD Mahasiswa
+
+
 ## Project OOP berbasis MVC
 ### Requirements :
 - Text Editor
